@@ -6,6 +6,10 @@ Here’s a complete rewrite of the `README.md` file for your React + Vite projec
 
 This template provides a minimal setup for building a React application using Vite. It includes Hot Module Replacement (HMR) for fast refresh, Tailwind CSS for utility-first styling, and ESLint for code linting.
 
+---
+## Live Demo
+(https://paste-app-one-peach.vercel.app/)
+
 ## Features
 - **Vite**: Ultra-fast development and build tooling.
 - **React**: Latest version for building modern UI components.
